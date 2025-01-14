@@ -8,5 +8,8 @@
   "keywords": [],
   "author": "John Michael Lim",
   "license": "ISC",
-  "description": "A WebSocket implementation"
+  "description": "A WebSocket implementation",
+  "dependencies": {
+    "socket.io": "^4.8.1"
+  }
 }
